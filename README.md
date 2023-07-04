@@ -2,6 +2,8 @@
 <h1 align="center">"Hey there 👋, it's uzma</h1>
 <h3 align="center">"Welcome to Uzma's MERN Coding Possibilities!</h3>
 
+
+
 <img align="right" width="400px" alt="girlCoder" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uzma-nazim&label=Profile%20views&color=0e75b6&style=flat" alt="uzma-nazim" /> </p>
@@ -13,8 +15,6 @@
 - 💬 Ask me about **react, next, node js**
 
 - 📫 How to reach me **uzmanazim06@gmail.com**
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
