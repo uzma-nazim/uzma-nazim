@@ -1,4 +1,4 @@
-![logo](https://github.com/uzma-nazim/uzma-nazim/blob/main/banner.jpg)
+![logo](https://github.com/uzma-nazim/uzma-nazim/blob/main/uzma-nazim.png)
 <h1 align="center">"Hey there 👋, it's uzma</h1>
 <h3 align="center">"Welcome to Uzma's MERN Coding Possibilities!</h3>
 
