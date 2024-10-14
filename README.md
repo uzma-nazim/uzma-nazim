@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uzma-nazim&label=Profile%20views&color=0e75b6&style=flat" alt="uzma-nazim" /> </p>
 
-- 🔭 I’m currently working on **Hrm web**
+- 🔭 I’m currently working on **Mern stack projects**
 
-- 👨‍💻 All of my projects are available at [https://uzma.site/](https://uzma.site/)
+- 👨‍💻 All of my projects are available at [https://uzma.dev/](https://uzma.netlify.app/)
 
 - 💬 Ask me about **react, next, node js**
 
